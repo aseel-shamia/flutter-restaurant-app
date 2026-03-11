@@ -1,0 +1,222 @@
+{
+  "app_name": "تمامنج فود سيرفس",
+  "get_started": "ابدأ الآن",
+  "sign_in": "تسجيل الدخول",
+  "welcome_title": "مرحباً بك في Tamang Food Services",
+  "welcome_hint": "اطلب أفضل الأطعمة القريبة منك",
+
+
+  "continue_with": "تابع بواسطة",
+
+
+  "walkthrough_1_title": "كل مفضلاتك",
+  "walkthrough_1_desc": "اطلب من مجموعة واسعة من المطاعم.",
+  "forgot_password_title": "هل نسيت كلمة المرور؟",
+  "forgot_password_desc": "أدخل بريدك الإلكتروني وسنرسل لك رابط إعادة التعيين.",
+  "send_reset_link": "إرسال رابط الاستعادة",
+  "welcome_title_big": "تمامنج\nفود سيرفس",
+  "welcome_body": "يسعدنا التعرف عليك! نحن متحمسون لوجودك هنا، لنبدأ الآن.",
+  "brand_title": "تمامنج\nفود سيرفس",
+  "wt0_title": "مرحباً",
+  "wt0_body": "يسعدنا التعرف عليك! نحن متحمسون لوجودك هنا، لنبدأ الآن.",
+
+  "wt1_title": "كل مفضلاتك",
+  "wt1_body": "اطلب من مجموعة واسعة من المطاعم.",
+
+  "wt2_title": "عروض توصيل مجانية",
+  "wt2_body": "استمتع بخصومات رائعة وتوفير رسوم التوصيل.",
+
+  "wt3_title": "اختر طعامك",
+  "wt3_body": "اعثر على الأطباق التي تحبها بسهولة.",
+
+
+  "next": "التالي",
+  "skip": "تخطي",
+
+  "reset_email_sent": "إعادة تعيين",
+  "reset_email_title": "تم إرسال رسالة إعادة التعيين",
+  "reset_email_desc": "تم إرسال رابط لإعادة تعيين كلمة المرور إلى بريدك الإلكتروني.",
+  "open_email_app": "افتح تطبيق البريد",
+  "welcomeTitle": "أهلًا بك",
+  "welcomeBody": "نحن سعداء بلقائك. يسعدنا أنك هنا فلنبدأ الآن!",
+  "slide2Title": "كل أطعمتك المفضلة",
+  "slide2Body": "اكتشف الأطباق التي تحبها من المطاعم القريبة — بسرعة.",
+  "slide3Title": "توصيل مجاني 24/7",
+  "slide3Body": "اطلب في أي وقت واستمتع بتوصيل سريع وسهل.",
+  "slide4Title": "اختر طعامك",
+  "slide4Body": "انتقِ من قوائم منسّقة وفئات شهية.",
+  "getStarted": "ابدأ الآن",
+  "forgot_password_appbar": "نسيت كلمة المرور",
+
+  "email_address_label": "البريد الإلكتروني",
+  "email_hint": "name@example.com",
+  "reset_password_cta": "إعادة تعيين كلمة المرور",
+  "reset_link_sent": "إن وُجد البريد سنرسل رابط إعادة التعيين.",
+
+  "reset_title": "تم إرسال البريد",
+  "reset_desc": "قمنا بإرسال بريد يتضمن تعليمات لإعادة التعيين إلى صندوقك.",
+  "having_problem": "تواجه مشكلة؟",
+  "send_again": "إرسال مرة أخرى",
+  "reset_resent_toast": "تم إعادة إرسال البريد.",
+  "login_phone_appbar": "تسجيل الدخول إلى Tamang Food Services",
+  "login_phone_title": "ابدأ مع فودلي",
+  "login_phone_subtitle": "أدخل رقم هاتفك لاستخدام فودلي والاستمتاع بطعامك :)",
+  "phone_number": "رقم الهاتف",
+  "phone_hint": "4 123 456 78",
+  "signup_cta": "إنشاء حساب",
+  "featured_partners_title": "الشركاء المميزون",
+
+
+
+
+
+
+
+
+  "sign_in_appbar": "تسجيل الدخول",
+  "signin_title": "مرحباً بك في Tamang Food Services",
+  "signin_subtitle": "اطلب أفضل الأطعمة القريبة منك",
+
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "login": "تسجيل الدخول",
+  "or": "أو",
+  "continue_with_google": "تابع بواسطة Google",
+  "login_with_phone": "تسجيل برقم الهاتف",
+
+  "err_email_required": "البريد الإلكتروني مطلوب",
+  "err_email_format": "يرجى إدخال بريد إلكتروني صالح",
+  "err_password_required": "كلمة المرور مطلوبة",
+  "err_password_short": "كلمة المرور قصيرة جداً",
+
+  "google_mock": "تسجيل Google (تجريبي)",
+  "login_success_mock": "تم تسجيل الدخول (تجريبي)",
+  "language": "اللغة",
+  "theme": "الوضع",
+  "signup_appbar": "إنشاء حساب",
+  "signup_title": "إنشاء حساب",
+  "signup_subtitle": "أدخل الاسم والبريد وكلمة المرور للتسجيل.",
+  "full_name": "الاسم الكامل",
+  "sign_up": "إنشاء حساب",
+  "signup_terms": "بإنشائك حساباً فأنت توافق على الشروط\nوالأحكام وسياسة الخصوصية.",
+  "connect_with_facebook": "تابع بواسطة Facebook",
+  "connect_with_google": "تابع بواسطة Google",
+  "already_have_account": "لديك حساب بالفعل؟",
+  "signup_success_mock": "تم إنشاء الحساب (تجريبي)!",
+  "create_account": "إنشاء حساب",
+  "no_account": "ليس لديك حساب؟",
+  "confirm_phone_appbar": "تسجيل الدخول إلى Tamang Food Services",
+  "confirm_phone_title": "تأكيد رقم الهاتف",
+  "confirm_phone_subtitle": "أدخل رقم جوالك للمتابعة",
+
+
+  "continue": "متابعة",
+  "err_phone_required": "رقم الجوال مطلوب",
+  "err_phone_short": "رقم الجوال قصير",
+  "phone_sent_mock": "تم إرسال رمز التحقق إلى جوالك.",
+
+
+  "phone_intro_title": "ابدأ مع Foodly",
+  "phone_intro_subtitle": "أدخل رقم جوالك لاستخدام فودلي والاستمتاع بطعامك :)",
+  "phone_number_label": "رقم الجوال",
+  "sign_up_cta": "متابعة",
+  "verify_phone_appbar": "تأكيد رقم الجوال",
+  "verify_phone_title": "أدخل رمز التحقق",
+
+
+  "err_otp_required": "أدخل رمزًا من 4 أرقام",
+  "otp_ok_mock": "تم التحقق (تجريبي)",
+
+  "phone_login_title": "تسجيل الدخول بالهاتف",
+  "phone_login_headline": "ابدأ مع Foodly",
+  "phone_login_subtitle": "أدخل رقم هاتفك لتسجيل الدخول.",
+
+  "phone_required": "رقم الهاتف مطلوب",
+  "phone_invalid": "أدخل رقمًا صالحًا",
+
+  "confirm_phone_headline": "تأكيد الرقم",
+  "confirm_phone_desc": "سنرسل رمز تحقق إلى: {0}",
+  "send_code": "إرسال الرمز",
+  "edit_phone": "تعديل الرقم",
+
+  "otp_title": "أدخل رمز التحقق",
+  "otp_desc": "أدخل الرمز المكوّن من 6 أرقام المرسل إلى هاتفك.",
+  "verify": "تأكيد",
+  "resend_code": "إعادة إرسال الرمز",
+  "otp_incomplete": "يرجى إدخال الأرقام الستة",
+  "otp_verified_mock": "تم التحقق بالرمز {0}",
+  "otp_sent_again": "تم إرسال الرمز مرة أخرى",
+
+  "delivery_to": "التوصيل إلى",
+  "filter": "فلتر",
+  "featured_partners": "أفضل\nالشركاء",
+  "see_all": "عرض الكل",
+  "best_picks": "أفضل اختيارات\nالفريق",
+  "all_restaurants": "كل المطاعم",
+
+
+  "home_filter": "تصفية",
+  "home_delivery_to": "التوصيل إلى",
+  "home_featured_partners": "الشركاء\nالمميزون",
+  "home_best_picks": "أفضل اختيارات\nالفريق",
+  "home_all_restaurants": "كل المطاعم",
+
+
+
+  "nav_home": "الرئيسية",
+  "nav_search": "بحث",
+  "nav_orders": "الطلبات",
+  "nav_profile": "الملف الشخصي",
+  "search_title": "البحث",
+  "search_hint": "ابحث في فودلي",
+  "top_restaurants": "أفضل المطاعم",
+
+  "orders_title": "طلباتك",
+  "orders_upcoming": "الطلبات القادمة",
+  "orders_past": "الطلبات السابقة",
+  "orders_on_the_way": "في الطريق",
+  "orders_payment_pending": "بانتظار الدفع",
+  "orders_delivered": "تم التوصيل",
+  "orders_cancel": "إلغاء",
+  "orders_reorder": "إعادة الطلب",
+  "orders_proceed_payment": "متابعة والدفع",
+  "profile_title": "الملف الشخصي",
+  "profile_name": "اسيل شامية",
+  "profile_email": "user@example.com",
+
+  "profile_section_account": "الحساب",
+  "profile_edit_account": "تعديل الحساب",
+  "profile_edit_account_sub": "تغيير الاسم، رقم الجوال والبريد الإلكتروني",
+  "profile_addresses": "عناوين التوصيل",
+  "profile_addresses_sub": "إدارة وتعديل عناوينك المحفوظة",
+  "profile_payment_methods": "طرق الدفع",
+  "profile_payment_methods_sub": "إضافة أو حذف بطاقات الدفع",
+
+  "profile_section_settings": "الإعدادات",
+  "profile_notifications": "الإشعارات",
+  "profile_notifications_sub": "إدارة إشعارات التطبيق والرسائل",
+  "profile_language": "اللغة",
+  "profile_language_sub": "تغيير لغة التطبيق",
+  "profile_privacy": "الخصوصية والأمان",
+  "profile_privacy_sub": "الأذونات وسياسة الخصوصية",
+
+  "profile_logout": "تسجيل الخروج",
+  "all_restaurants_title": "جميع المطاعم",
+  "all_restaurants_description": "تصفح جميع المطاعم المتوفرة",
+  "restaurant_time": "25 دقيقة",
+  "restaurant_free": "مجاني",
+  "restaurant_rating": "التقييم",
+  "best_picks_title": "أفضل الاختيارات",
+  "best_picks_description": "أفضل المطاعم المختارة لك",
+
+  "recent_searches_title": "عمليات البحث الأخيرة",
+  "recent_searches_clear_all": "مسح الكل",
+  "err_email_in_use": "هذا البريد الإلكتروني مسجل بالفعل."
+}
+
+
+
+
+
+
