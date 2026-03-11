@@ -1,0 +1,217 @@
+{
+  "app_name": "Tamang FoodService",
+  "get_started": "Get Started",
+  "sign_in": "Sign In",
+  "welcome_title": "Welcome to Tamang Food Services",
+  "welcome_hint": "Order the best food near you",
+
+  "continue_with": "Continue with",
+
+  "walkthrough_1_title": "All your favorites",
+  "walkthrough_1_desc": "Order from a wide variety of restaurants.",
+  "forgot_password_title": "Forgot your password?",
+  "forgot_password_desc": "Enter your email and we'll send you a reset link.",
+  "send_reset_link": "Send reset link",
+  "welcome_title_big": "Tamang\nFoodService",
+  "welcome_body": "It’s a pleasure to meet you. We are excited that you’re here so let’s get started!",
+  "brand_title": "Tamang\nFoodService",
+  "wt0_title": "Welcome",
+  "wt0_body": "It’s a pleasure to meet you. We are excited that you’re here so let’s get started!",
+
+  "wt1_title": "All your favorites",
+  "wt1_body": "Order from a wide variety of restaurants.",
+
+  "wt2_title": "Free delivery offers",
+  "wt2_body": "Enjoy great deals and save on delivery fees.",
+
+  "wt3_title": "Choose your food",
+  "wt3_body": "Find dishes you love with easy browsing.",
+
+  "next": "Next",
+  "skip": "Skip",
+
+  "reset_email_sent": "Reset email",
+  "reset_email_title": "Reset email sent",
+  "reset_email_desc": "We’ve sent you a link to reset your password.",
+  "open_email_app": "Open email app",
+  "welcomeTitle": "Welcome",
+  "welcomeBody": "It's a pleasure to meet you. We are excited that you're here so let's get started!",
+  "slide2Title": "All your favorite foods",
+  "slide2Body": "Find dishes you love from nearby restaurants — fast.",
+  "slide3Title": "Free delivery 24/7",
+  "slide3Body": "Order anytime and enjoy quick, hassle-free delivery.",
+  "slide4Title": "Choose your food",
+  "sliflutter clean\nflutter pub get\nflutter run -d chrome\nde4Body": "Pick from curated menus and tasty categories.",
+  "getStarted": "Get started",
+  "forgot_password_appbar": "Forgot Password",
+
+  "email_address_label": "Email address",
+  "email_hint": "name@example.com",
+  "reset_password_cta": "RESET PASSWORD",
+  "reset_link_sent": "If this email exists, we sent a reset link.",
+
+  "reset_title": "Reset email sent",
+  "reset_desc": "We have sent a instructions email to your inbox.",
+  "having_problem": "Having problem?",
+  "send_again": "SEND AGAIN",
+  "reset_resent_toast": "We re-sent the reset email.",
+  "login_phone_appbar": "Login to Tamang Food Services",
+  "login_phone_title": "Get started with Foodly",
+  "login_phone_subtitle": "Enter your phone number to use foodly and enjoy your food :)",
+  "phone_number": "Phone number",
+  "phone_hint": "4 123 456 78",
+  "signup_cta": "Sign up",
+
+
+  "sign_in_appbar": "Sign In",
+  "signin_title": "Welcome to Tamang Food Services",
+  "signin_subtitle": "Order the best food near you",
+
+  "email": "Email",
+  "password": "Password",
+  "forgot_password": "Forgot password?",
+  "login": "Log in",
+  "or": "OR",
+  "continue_with_google": "Continue with Google",
+  "login_with_phone": "Log in with phone",
+
+  "err_email_required": "Email is required",
+  "err_email_format": "Please enter a valid email",
+  "err_password_required": "Password is required",
+  "err_password_short": "Password is too short",
+
+  "google_mock": "Google sign-in (mock)",
+  "login_success_mock": "Logged in (mock)",
+  "language": "Language",
+  "theme": "Theme",
+  "signup_appbar": "Create Account",
+  "signup_title": "Create Account",
+  "signup_subtitle": "Enter your Name, Email and Password for sign up.",
+  "full_name": "Full name",
+  "sign_up": "Sign up",
+  "signup_terms": "By Signing up you agree to our Terms\nConditions & Privacy Policy.",
+  "connect_with_facebook": "CONNECT WITH FACEBOOK",
+  "connect_with_google": "CONNECT WITH GOOGLE",
+  "already_have_account": "Already have account?",
+  "signup_success_mock": "Signed up (mock) successfully!",
+  "create_account": "Create Account",
+  "no_account": "Don’t have an account?",
+  "confirm_phone_appbar": "Login to Tamang Food Services",
+  "confirm_phone_title": "Verify phone number",
+  "confirm_phone_subtitle": "Enter your phone number to continue",
+
+
+  "err_phone_short": "Phone number seems too short",
+  "phone_sent_mock": "We sent a verification code to your phone.",
+
+  "phone_intro_title": "Get started with Foodly",
+  "phone_intro_subtitle": "Enter your phone number to use foodly and enjoy your food :)",
+  "phone_number_label": "Phone number",
+  "sign_up_cta": "Sign up",
+  "verify_phone_appbar": "Verify phone number",
+  "verify_phone_title": "Verify phone number",
+  "continue": "Continue",
+  "err_phone_required": "Please enter a valid phone number",
+  "err_otp_required": "Please enter the 4-digit code",
+  "otp_ok_mock": "Code accepted (mock)",
+
+  "phone_login_title": "Login by phone",
+  "phone_login_headline": "Get started with Foodly",
+  "phone_login_subtitle": "Enter your phone number to sign in.",
+
+  "phone_required": "Phone number is required",
+  "phone_invalid": "Enter a valid phone number",
+
+
+  "confirm_phone_headline": "Verify your number",
+  "confirm_phone_desc": "We will send a verification code to: {0}",
+  "send_code": "SEND CODE",
+  "edit_phone": "Edit phone number",
+
+  "otp_title": "Enter verification code",
+  "otp_desc": "Enter the 6-digit code sent to your phone.",
+  "verify": "VERIFY",
+  "resend_code": "Resend code",
+  "otp_incomplete": "Please enter all 6 digits",
+  "otp_verified_mock": "Verified with code {0}",
+  "otp_sent_again": "Code sent again",
+
+  "delivery_to": "DELIVERY TO",
+  "filter": "Filter",
+  "featured_partners": "Featured\nPartners",
+
+
+  "best_picks": "Best Picks\nRestaurants by team",
+  "all_restaurants": "All Restaurants",
+
+
+
+
+
+  "home_filter": "Filter",
+  "home_delivery_to": "DELIVERY TO",
+  "home_featured_partners": "Featured\nPartners",
+  "home_best_picks": "Best Picks\nRestaurants by team",
+  "home_all_restaurants": "All Restaurants",
+
+  "see_all": "See all",
+
+  "nav_home": "Home",
+  "nav_search": "Search",
+  "nav_orders": "Orders",
+  "nav_profile": "Profile",
+  "featured_partners_title": "Featured Partners",
+  "search_title": "Search",
+  "search_hint": "Search on foodly",
+  "top_restaurants": "Top Restaurants",
+
+  "orders_title": "Your Orders",
+  "orders_upcoming": "Upcoming orders",
+  "orders_past": "Past orders",
+  "orders_on_the_way": "On the way",
+  "orders_payment_pending": "Payment pending",
+  "orders_delivered": "Delivered",
+  "orders_cancel": "Cancel",
+  "orders_reorder": "Reorder",
+  "orders_proceed_payment": "CONTINUE AND PAY",
+
+  "profile_title": "Profile",
+  "profile_name": "aseel shamia",
+  "profile_email": "user@example.com",
+
+  "profile_section_account": "ACCOUNT",
+  "profile_edit_account": "Edit account",
+  "profile_edit_account_sub": "Change your name, phone number and email",
+  "profile_addresses": "Delivery addresses",
+  "profile_addresses_sub": "Manage and edit your saved locations",
+  "profile_payment_methods": "Payment methods",
+  "profile_payment_methods_sub": "Add or remove your cards",
+
+  "profile_section_settings": "SETTINGS",
+  "profile_notifications": "Notifications",
+  "profile_notifications_sub": "Push, SMS and email notifications",
+  "profile_language": "Language",
+  "profile_language_sub": "Change app language",
+  "profile_privacy": "Privacy & security",
+  "profile_privacy_sub": "Permissions and privacy policy",
+
+  "profile_logout": "Log out",
+  "all_restaurants_title": "All Restaurants",
+  "all_restaurants_description": "Browse the full list of restaurants",
+  "restaurant_time": "25min",
+  "restaurant_free": "Free",
+  "restaurant_rating": "Rating",
+  "best_picks_title": "Best Picks",
+  "best_picks_description": "Top restaurants chosen for you",
+
+  "recent_searches_title": "RECENT SEARCHES",
+  "recent_searches_clear_all": "CLEAR ALL",
+  "err_email_in_use": "This email is already registered."
+}
+
+
+
+
+
+
+
