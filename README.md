@@ -28,7 +28,14 @@ Modern food delivery / restaurant mobile application built with Flutter and Fire
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### AI Assistant Input
+![AI Assistant Input](screenshots/ai_input.png)
+
+### AI Recommendation Result
+![AI Recommendation Result](screenshots/ai_result.png)
 
 ---
 
